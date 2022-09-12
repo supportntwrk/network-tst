@@ -1,5 +1,5 @@
 FROM 124058498031.dkr.ecr.us-east-1.amazonaws.com/ubuntu
-#MAINTAINER Syed Komljen
+#MAINTAINER Syed ntwrk-dev
 
 ENV USER root
 ENV PASS aiPeekai0AeZ2meephoolais7doo1thu
